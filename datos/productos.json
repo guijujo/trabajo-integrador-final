@@ -1,0 +1,86 @@
+[
+    {
+        "codigo": "CEL001",
+        "nombre": "Samsung Galaxy S21",
+        "imagen": [
+            "./img/samsung_galaxy_s21_0.webp",
+            "./img/samsung_galaxy_s21_1.webp",
+            "./img/samsung_galaxy_s21_2.webp",
+            "./img/samsung_galaxy_s21_3.webp",
+            "./img/samsung_galaxy_s21_4.webp",
+            "./img/samsung_galaxy_s21_5.webp",
+            "./img/samsung_galaxy_s21_6.webp",
+            "./img/samsung_galaxy_s21_7.webp"            
+            ],
+        "descripcion": "El Samsung Galaxy S21 es un smartphone Android con una pantalla de 6.2 pulgadas a resolución Full HD+.",
+        "precio": "350.000",
+        "active":"active",
+        "ariaCurrent":"true"
+    },
+    {
+        "codigo": "CEL002",
+        "nombre": "iPhone 13",
+        "imagen": [
+            "./img/iphone_13_0.webp",
+            "./img/iphone_13_1.webp",
+            "./img/iphone_13_2.webp",
+            "./img/iphone_13_3.webp",
+            "./img/iphone_13_4.webp",
+            "./img/iphone_13_5.webp",
+            "./img/iphone_13_6.webp",
+            "./img/iphone_13_7.webp"
+            ],
+        "descripcion": "El iPhone 13 de Apple cuenta con el chip A15 Bionic y una nueva cámara Cinematic.",
+        "precio": "800.000",
+        "active":"",
+        "ariaCurrent":""
+    },
+    {
+        "codigo": "CEL003",
+        "nombre": "Google Pixel 6",
+        "imagen": [
+            "./img/google_pixel_6_0.webp",            
+            "./img/google_pixel_6_1.webp",            
+            "./img/google_pixel_6_2.webp",            
+            "./img/google_pixel_6_3.webp",            
+            "./img/google_pixel_6_4.webp",            
+            "./img/google_pixel_6_5.webp"      
+            ],
+        "descripcion": "El Google Pixel 6 viene con el chip Tensor de Google y una pantalla OLED de 6.4 pulgadas.",
+        "precio": "230.000",
+        "active":"",
+        "ariaCurrent":""
+    },
+    {
+        "codigo": "CEL004",
+        "nombre": "OnePlus 9",
+        "imagen": [
+            "./img/oneplus_9_0.webp",
+            "./img/oneplus_9_1.webp",
+            "./img/oneplus_9_2.webp",
+            "./img/oneplus_9_3.webp",
+            "./img/oneplus_9_4.webp",
+            "./img/oneplus_9_5.webp",
+            "./img/oneplus_9_6.webp"
+            ],
+        "descripcion": "El OnePlus 9 presenta una pantalla Fluid AMOLED de 6.55 pulgadas y el chipset Snapdragon 888.",
+        "precio": "180.000",
+        "active":"",
+        "ariaCurrent":""
+    },
+    {
+        "codigo": "CEL005",
+        "nombre": "Xiaomi Mi 11",
+        "imagen": [
+            "./img/xiaomi_mi_11_0.webp",           
+            "./img/xiaomi_mi_11_1.webp",           
+            "./img/xiaomi_mi_11_2.webp",           
+            "./img/xiaomi_mi_11_3.webp",           
+            "./img/xiaomi_mi_11_4.webp"           
+            ],
+        "descripcion": "El Xiaomi Mi 11 cuenta con una pantalla AMOLED de 6.81 pulgadas y el chipset Snapdragon 888.",
+        "precio": "200.000",
+        "active":"",
+        "ariaCurrent":""
+    }
+]
