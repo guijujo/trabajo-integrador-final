@@ -5,7 +5,7 @@ let productosHTML = document.querySelector(".productos");
 let productosIndicador = document.querySelector(".productosIndicador");
 let descripcionProducto = document.querySelector(".descripcionProducto");
 
-fetch("../datos/productos.json")
+fetch("./datos/productos.json")
   .then((Respuesta) => Respuesta.json())
   .then((productos) => {
     productos.forEach((producto, index) => {
