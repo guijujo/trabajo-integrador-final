@@ -14,7 +14,6 @@
             ],
         "descripcion": "El Samsung Galaxy S21 es un smartphone Android con una pantalla de 6.2 pulgadas a resolución Full HD+.",
         "precio": "350.000",
-        "active":"active",
         "ariaCurrent":"true"
     },
     {
@@ -32,7 +31,6 @@
             ],
         "descripcion": "El iPhone 13 de Apple cuenta con el chip A15 Bionic y una nueva cámara Cinematic.",
         "precio": "800.000",
-        "active":"",
         "ariaCurrent":""
     },
     {
@@ -48,7 +46,6 @@
             ],
         "descripcion": "El Google Pixel 6 viene con el chip Tensor de Google y una pantalla OLED de 6.4 pulgadas.",
         "precio": "230.000",
-        "active":"",
         "ariaCurrent":""
     },
     {
@@ -65,7 +62,6 @@
             ],
         "descripcion": "El OnePlus 9 presenta una pantalla Fluid AMOLED de 6.55 pulgadas y el chipset Snapdragon 888.",
         "precio": "180.000",
-        "active":"",
         "ariaCurrent":""
     },
     {
@@ -80,7 +76,6 @@
             ],
         "descripcion": "El Xiaomi Mi 11 cuenta con una pantalla AMOLED de 6.81 pulgadas y el chipset Snapdragon 888.",
         "precio": "200.000",
-        "active":"",
         "ariaCurrent":""
     }
 ]
